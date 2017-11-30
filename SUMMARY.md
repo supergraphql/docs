@@ -1,10 +1,12 @@
 # Summary
 
-## Overview
+## Recipes
 
-* [Introduction](README.md)
+* [Creating a GraphQL Server](creating-a-graphql-server.md)
 
-## Methods
+## SuperGraph API
 
 * [Defining Methods](methods.md)
+
+
 
